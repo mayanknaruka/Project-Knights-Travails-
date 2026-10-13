@@ -53,3 +53,5 @@ function knightMoves(start, end) {
     }
   }
 }
+
+knightMoves([0, 0], [3, 3]);
